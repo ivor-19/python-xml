@@ -1,0 +1,10 @@
+<BankAccount>
+    <account id="12233" name="Ivor Cruz">
+        <name>Ivor Cruz</name>
+        <balance>4334</balance>
+    </account>
+     <account id="44444" name="Son Goku">
+         <name>Son Goku</name>
+         <balance>1800</balance>
+    </account>
+</BankAccount>
